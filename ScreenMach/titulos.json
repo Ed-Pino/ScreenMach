@@ -1,0 +1,26 @@
+[
+  {
+    "Nombre": "Rambo",
+    "FechaDeLanzamiento": 2008,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 92
+  },
+  {
+    "Nombre": "Avatar",
+    "FechaDeLanzamiento": 2009,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 162
+  },
+  {
+    "Nombre": "Lucero",
+    "FechaDeLanzamiento": 2019,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 69
+  }
+]
